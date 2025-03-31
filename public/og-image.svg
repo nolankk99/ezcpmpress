@@ -1,0 +1,33 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#ffffff"/>
+  <rect x="0" y="0" width="1200" height="630" fill="#f8fafc"/>
+  
+  <!-- Logo and Title Container -->
+  <g transform="translate(150, 215)">
+    <!-- Title -->
+    <text x="0" y="0" font-family="Arial, sans-serif" font-size="64" font-weight="bold" fill="#1e293b">
+      EZ Compress
+    </text>
+    
+    <!-- Subtitle -->
+    <text x="0" y="80" font-family="Arial, sans-serif" font-size="32" fill="#64748b">
+      무료 이미지 압축 및 변환 도구
+    </text>
+    
+    <!-- Features -->
+    <g transform="translate(0, 140)">
+      <text font-family="Arial, sans-serif" font-size="24" fill="#64748b">
+        <tspan x="0" y="0">✓ JPG, PNG, WebP 지원</tspan>
+        <tspan x="0" y="40">✓ 빠르고 쉬운 일괄 처리</tspan>
+        <tspan x="0" y="80">✓ 최대 90% 용량 감소</tspan>
+      </text>
+    </g>
+  </g>
+  
+  <!-- Decorative Elements -->
+  <g transform="translate(800, 150)">
+    <rect x="0" y="0" width="250" height="250" rx="20" fill="#3b82f6" opacity="0.1"/>
+    <rect x="50" y="50" width="250" height="250" rx="20" fill="#3b82f6" opacity="0.2"/>
+    <rect x="100" y="100" width="250" height="250" rx="20" fill="#3b82f6" opacity="0.3"/>
+  </g>
+</svg> 
